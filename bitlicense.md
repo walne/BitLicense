@@ -49,14 +49,11 @@
 ##### Section 200.2  Definitions 
 ###### For purposes of this Part only, the following definitions shall apply: 
 
-(a) Affiliate means any Person that directly or indirectly controls, is controlled by, or is under common 
+* (a) Affiliate means any Person that directly or indirectly controls, is controlled by, or is under common 
 control with, another Person; 
-
-(b) Cyber Security Event means any act or attempt, successful or unsuccessful, to gain unauthorized access 
+* (b) Cyber Security Event means any act or attempt, successful or unsuccessful, to gain unauthorized access 
 to, disrupt, or misuse a Licensee’s electronic systems or information stored on such systems; 
-
-(c) Department means the New York State Department of Financial Services; 
-
+* (c) Department means the New York State Department of Financial Services; 
 (d) Fiat Currency means government-issued currency that is designated as legal tender in its country of 
 issuance through government decree, regulation, or law; 
 
